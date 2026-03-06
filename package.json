@@ -5,7 +5,7 @@
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.6.20",
     "docsy": "github:google/docsy#v0.6.x",
     "postcss-cli": "^11.0.0"
   },
